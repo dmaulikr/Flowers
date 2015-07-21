@@ -1,2 +1,4 @@
 # Flowers
-A children's published on the App Store in 2010, used to familiarize myself with iOS development.
+A children's published on the App Store in 2010, used to familiarize myself with iOS development. During its one-year run on the App Store, it garnered nearly 5300 downloads (free and paid downloads). The free version reached the daily "Top 100 Kids Games" ranking in seven countries, while the paid version reached "Top 10 Kids Games" in one country and "Top 100 Kids Games" in 36 countries. The code was written as my first real "project" (ie not a little tool or game), and I would have done (many) things a little differently if I were to remake it today, but the project was successful in that it made its money back and provided a nice introduction into Objective-C programming.
+
+The graphics and audio used in the game were copyright-free and royalty-free.
